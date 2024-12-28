@@ -10,10 +10,7 @@ services:
       LEVEL_TYPE: BIOMESOP
       DIFFICULTY: normal
       WHITELIST: |
-        Hydrated_Bean
-        _ExpiredWater_
       OPS: |
-        Hydrated_Bean
     ports:
       - "25565:25565"
     volumes:
